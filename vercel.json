@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/api/:match*",
+      "destination": "http://api.music.sunforyou.cn:match*"
+    }
+  ]
+}
